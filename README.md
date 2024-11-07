@@ -56,8 +56,9 @@ else:
 print("---------------------------------------------------------------")
 ```
 
-## Output :
-![Uploading 383911404-2a7423b3-7d6c-48e1-94f2-1ddb2c365c32.png…]()
+## Output:
+![383911404-2a7423b3-7d6c-48e1-94f2-1ddb2c365c32](https://github.com/user-attachments/assets/a9df553c-3556-4e66-be4e-c3e9cfb76168)
+ 
 
 ## Result :
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
